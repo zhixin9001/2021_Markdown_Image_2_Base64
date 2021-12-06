@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Markdown_Image_2_Base64", "Markdown_Image_2_Base64\Markdown_Image_2_Base64.csproj", "{9534058B-C638-496F-B319-036B6EBAD30A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Markdown_Image_2_Base64.Test", "Markdown_Image_2_Base64.Test\Markdown_Image_2_Base64.Test.csproj", "{52E91976-1CE0-4DE4-8E2B-32C4EA8412EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9534058B-C638-496F-B319-036B6EBAD30A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9534058B-C638-496F-B319-036B6EBAD30A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9534058B-C638-496F-B319-036B6EBAD30A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9534058B-C638-496F-B319-036B6EBAD30A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52E91976-1CE0-4DE4-8E2B-32C4EA8412EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E91976-1CE0-4DE4-8E2B-32C4EA8412EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E91976-1CE0-4DE4-8E2B-32C4EA8412EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52E91976-1CE0-4DE4-8E2B-32C4EA8412EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
